@@ -1,0 +1,11 @@
+nel progetto .java Array ho scritto un programma che:
+0- chiede di inserire una dimensione qualsiasi 
+   per un vettore, e dopo chiede se si vuole riempire l'array manualmente o randomicamente in modo automatico.
+In seguito si ha la possibilità di calcolare le seguenti opzioni:
+1- media dei valori del vettore
+2- massimo del vettore
+3- minimo del vettore
+4- selection sort
+5- merge sort (non ancora implementato perchè è un bordello)
+6- inserire un nuovo array (si torna al punto 0)
+7- exit (si esce dal programma)
